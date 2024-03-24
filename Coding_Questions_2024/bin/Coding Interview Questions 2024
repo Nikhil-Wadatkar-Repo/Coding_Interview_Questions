@@ -1,0 +1,30 @@
+WAP to remove duplicate charactersin string using stream API.
+String str = "Good";
+String uniqueString="G,d";
+
+
+
+Exception handling in Method overiding
+-------------------------------------------------------------
+public class demo { 
+public static void main(String[] args) {
+  B b=new B();
+  try {
+   b.method();
+  } catch (Exception e) {
+   e.printStackTrace();
+  }
+}
+}
+class A{
+public void method() throws IOException
+{
+sysout =A
+}
+}  
+class B extends A{
+public void method() throws Exception
+{
+sysout B
+}
+}
